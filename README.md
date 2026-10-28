@@ -7,7 +7,6 @@ StyleDecor is a responsive booking experience for a Dhaka-based decoration studi
 # Live Link:
 [Demo](https://smart-home-da7f4.firebaseapp.com/)
 
-Not deployed yet. Add the production client URL here after deployment.
 
 ## Key features
 
